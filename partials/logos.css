@@ -21,6 +21,10 @@
   height: 100px;
 }
 
+#maislar {
+  height: 180px;
+}
+
 .logos__img img:hover {
   opacity: .9;
 }
@@ -89,5 +93,9 @@
 
   #mrv {
     height: 100px;
+  }
+
+  #maislar {
+    height: 170px;
   }
 }
