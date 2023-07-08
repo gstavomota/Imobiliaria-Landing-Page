@@ -148,16 +148,16 @@
     column-gap: 5rem;
   }
 
-  .contact__orbe{
+  /* .contact__orbe{
     width: 501px;
     height: 641px;
-    border-radius: 258px 258px 16px 16px;
-  }
+    border-radius: 16px 16px 16px 16px;
+  } */
 
   .contact__img{
-    width: 461px;
+    width: 500px;
     height: 601px;
-    border-radius: 238px 238px 12px 12px;
+    /* border-radius: 238px 238px 12px 12px; */
   }
 
   .contact__img img{
