@@ -12,7 +12,7 @@
 .contact__orbe{
   width: 266px;
   height: 316px;
-  background-color: hsl(228, 24%, 97%);
+  /* background-color: hsl(228, 24%, 97%); */
   border-radius: 135px 135px 16px 16px;
 }
   
@@ -21,7 +21,7 @@
   width: 250px;
   height: 300px;
   overflow: hidden;
-  border-radius: 125px 125px 12px 12px;
+  /* border-radius: 125px 125px 12px 12px; */
   inset: 0;
   margin: auto;
   box-shadow: 0 16px 32px hsla(228, 66%, 25%, .25%);
@@ -107,20 +107,20 @@
     height: 280px;
   }
 
-  .contact__orbe{
+  /* .contact__orbe{
     width: 240px;
     height: 264px;
-  }
+  } */
 }
 
 @media screen and (min-width: 767px){
 
-  .contact__orbe{
+  /* .contact__orbe{
     align-self: flex-end;
-  }
+  } */
 
   .contact__img img{
-    max-width: initial;
+    /* max-width: initial; */
     width: 490px;
     text-align: center;
   }
